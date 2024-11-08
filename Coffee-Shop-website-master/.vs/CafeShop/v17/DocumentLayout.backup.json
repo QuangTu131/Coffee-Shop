@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\common\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\common\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\admin\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\client\\historypurchase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\historypurchase.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\client\\productdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\productdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\areas\\admin\\views\\productsize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\productsize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\views\\shop\\indexdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shop\\indexdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\admin\\productsize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\productsize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\areas\\admin\\controllers\\productsizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\productsizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\admin\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\reposiory\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\reposiory\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\reposiory\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\reposiory\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\reposiory\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\reposiory\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\ireposiory\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\ireposiory\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\admin\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\account.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\tu dam\\downloads\\coffee-shop-website-master\\coffee-shop-website-master\\cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:02:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\order.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\order.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\order.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\order.js",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAiwIgAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T15:03:07.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:57:38.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:55:27.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\ProductSize\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T13:23:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "historyPurchase.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\historyPurchase.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Client\\historyPurchase.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\historyPurchase.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Client\\historyPurchase.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:44:43.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Common\\Config.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Common\\Config.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Common\\Config.cs",
+              "RelativeToolTip": "CafeShop\\Common\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:33:04.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productDetails.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\productDetails.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Client\\productDetails.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\productDetails.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Client\\productDetails.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T14:43:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "productSize.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\productSize.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\productSize.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\productSize.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\productSize.js",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAowHkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T13:23:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T02:46:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductSizeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Areas\\Admin\\Controllers\\ProductSizeController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\ProductSizeController.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Areas\\Admin\\Controllers\\ProductSizeController.cs",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\ProductSizeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:21:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T03:23:32.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T03:15:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Shop\\IndexDetails.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Shop\\IndexDetails.cshtml",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Shop\\IndexDetails.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Shop\\IndexDetails.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T03:17:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Reposiory\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\GenericRepository.cs",
+              "RelativeToolTip": "CafeShop\\Reposiory\\GenericRepository.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:26:55.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\CartRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Reposiory\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\CartRepository.cs",
+              "RelativeToolTip": "CafeShop\\Reposiory\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:26:53.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Reposiory\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Reposiory\\AccountRepository.cs",
+              "RelativeToolTip": "CafeShop\\Reposiory\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:26:51.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\IReposiory\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\IReposiory\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\IReposiory\\IGenericRepository.cs",
+              "RelativeToolTip": "CafeShop\\IReposiory\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:26:06.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "account.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\account.js",
+              "ViewState": "AQIAANUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T03:22:14.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:42:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tu Dam\\Downloads\\Coffee-Shop-website-master\\Coffee-Shop-website-master\\CafeShop\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T02:46:37.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
